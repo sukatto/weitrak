@@ -1,0 +1,13 @@
+---------
+|WEITRAK|
+---------
+
+SUMMARY:
+--------
+
+The aim for this program is to provide a convenient way for me to monitor and manage some of the essential parts of my fitness goals.  This includes being able to log weights & calculate/view statistics regarding weight loss/gain, as well as store and view recipes with an interface to create/delete recipes.
+
+WEIGHT MONITORING:
+------------------
+
+This part of the program will start with an interface that displays the weight log, as well as various statistics associated with it, and an option to add, edit, or delete an entry.  There should be a limit to one entry per day enforced by the program.  At the top of the page the graph should be displayed for the past 28 days by default, however there should be an option to change the span of time the graph displays.  There should be various statistics posted in uneditable fields below the graph, and towards the bottom of the page buttons for adding/editing/deleting an entry, settings, and exiting this part of the program.  The interface should be coded using LANGUAGE, and should interact with a database for the logged weights using SQL.
